@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IamTheGoat55454/OP-PSX-SCRIPT/main/OP-PSX-SCRIPT", true))()
